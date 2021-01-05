@@ -1,0 +1,2 @@
+# DeepLearning_AnimalVocalizations
+This repository includes deep learning models I have developed during my postdoc in Hannover to process mouse lemur vocalizations data. They are in the form of jupyter notebooks. The first model is a binary classification problem intented to remove unwanted noise from the database. The second one is a multiclass supervised classification problem that classifies the data according to predefined categories
